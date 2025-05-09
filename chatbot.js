@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     #chatbot-widget {
       position: fixed;
       bottom: 80px;
-      right: 20px;
+      left: 20px;
       width: 320px;
       max-height: 500px;
       background: white;
